@@ -1,0 +1,13 @@
+{
+  "name": "gulp-plugin-template",
+  "version": "0.0.1",
+  "description": "a template for gulp plugins which does nothing meaningful",
+  "main": "index.js",
+  "keywords": ["gulp", "plugin", "template"],
+  "author": "Thomas Duerr <thomduerr@gmail.com> (http://git.io/thomd)",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.8",
+    "through2": "^2.0.3"
+  }
+}
