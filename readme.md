@@ -19,6 +19,6 @@ Create the following `gulpfile.js` file
 
     gulp.task('default', function() {
       return gulp.src('./src/*')
-	.pipe(plugin())
-	.pipe(gulp.dest('dest'))
+        .pipe(plugin())
+        .pipe(gulp.dest('dest'))
     })
